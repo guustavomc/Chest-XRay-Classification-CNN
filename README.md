@@ -1,6 +1,6 @@
 # Chest-XRay-Classification-CNN
 
-Project created as part of a Specialization on applied AI.
+> Developed for the Deep Learning course (Redes Neurais Profundas) — Specialization in Applied Artificial Intelligence, UNISINOS.
 
 A convolutional neural network (CNN) built with PyTorch to classify chest X-rays as **NORMAL** or **PNEUMONIA**, trained on the [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge) dataset.
 
