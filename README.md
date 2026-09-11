@@ -4,7 +4,7 @@
 
 A convolutional neural network (CNN) built with PyTorch to classify chest X-rays as **NORMAL** or **PNEUMONIA**, trained on the [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge) dataset.
 
-Built as a practical exercise for the Deep Learning course of the AI specialization at UNISINOS. It covers the full computer vision project lifecycle: dataset loading, preprocessing, model design, training/validation, and evaluation.
+Built as a practical exercise for the Deep Learning course (Redes Neurais Profundas) of the AI specialization at UNISINOS. It covers the full computer vision project lifecycle: dataset loading, preprocessing, model design, training/validation, and evaluation.
 
 ## Pipeline
 
